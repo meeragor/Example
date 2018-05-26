@@ -67,6 +67,6 @@ fastlane/readme.md
 .idea/misc.xml
 .idea/runConfigurations.xml
 app/libs/
-app/src/main/res/drawable/
+#app/src/main/res/drawable/
 .idea/compiler.xml
 .idea/modules.xml
